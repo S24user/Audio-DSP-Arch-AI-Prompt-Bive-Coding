@@ -1,0 +1,5 @@
+[AIR (Audio Intermediate Representation) DSP Architecture Overview]
+
+Goal: Real-time audio processing architecture with sub-1ms latency using adaptive floating/fixed-point hybrid DSP pipeline, LC3 codec abstraction, and SPIR-V-based quantization.
+
+Note: This is a functional architectural draft collaboratively designed by Jehyun (제현) and GPT-4o via prompt-based vibe-coding.
